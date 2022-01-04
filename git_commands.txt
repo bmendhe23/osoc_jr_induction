@@ -1,0 +1,22 @@
+GIT COMMANDS AND DESCRIPTION
+BRANCH: MAIN
+
+1. git-add --> This command adds file contents to the index. 
+
+2. git-branch --> This command is used to list, create or delete branches.
+
+3. git-checkout --> This command is used to switch brances or restore working tree files.
+
+4. git-clone --> This commands is used to clone a repository into a new directory.
+
+5. git-commit --> This command records changes to the repository.
+
+6. git-diff --> This command show changes between commits, commit and working tree.
+
+7. git-init --> This command creates an empty Git repository or reinitialize an existing one.
+
+8. git-log --> This command shows all the commit logs.
+
+9. git-merge --> This command joins two or more development histories together.
+
+10. git-pull --> This command fetches from and integrate with another repository or a local branch.
