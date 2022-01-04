@@ -1,0 +1,9 @@
+SETTING UP MERGE CONFLICT
+
+    I created the "git_commands.txt" file which was created in the "osoc_bhushan_induction_task" branch in the main branch as well with the same name.
+    The "git_commands.txt" file in the "osoc_bhushan_induction_task" branch contains a line "BRANCH: OSOC_BHUSHAN_INDUCTION_TASK" whereas the "git_commands.txt" file in the "main" branch contains a line "BRANCH: MAIN".
+    While merging the "git_commands.txt" file in the "osoc_bhushan_induction_task" branch with the "git_commands.txt" file in the "main" branch will cause the merge conflict.
+
+RESOLVING THE MERGE CONFLICT
+
+    I resolved the merge conflict by replacng the line "BRANCH: OSOC_BHUSHAN_INDUCTION_TASK" with "BRANCH: MAIN".
