@@ -1,5 +1,5 @@
 GIT COMMANDS AND DESCRIPTION
-BRANCH: OSOC_BHUSHAN_INDUCTION_TASK
+BRANCH: MAIN
 
 1. git-add --> This command adds file contents to the index. 
 
